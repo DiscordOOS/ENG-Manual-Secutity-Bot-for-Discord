@@ -1,8 +1,9 @@
-# Добро пожаловать на страницу мануала к Discord боту от OOS
+# Welcome to the manual page for the Discord bot from OOS
 
-## Бот для Discord и его команды
+## A bot for Discord and commands
 
-#### Задачи поставленные перед ботом: Определить есль ли в общей базе данных пользователь что пришёл на Ваш сервер
+#### Tasks assigned to the bot: To determine if there is a user in the shared database that came to your server
+
 ```markdown
-Модуль в разработке.
+The module is under development.
 ```
