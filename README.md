@@ -7,7 +7,7 @@
 - **Bot prefix** - *is a dot symbol.*
 - **Description of the bot's work** - *the bot checks all the arrived server participants for the presence of their **ID** in our database. If this **ID** is found, the bot sends a message about this incident to the designated channel.*
 
-## Commands for server owners:
+## Commands for owners of verified servers:
 
 - **.addmoder ID** - *instead of **ID**, enter the **ID** of the participant you want to appoint as a moderator in the bot. Where to get a user ID is described in this article - [Where to find the participant ID in Discrod](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).*
 - **.delmoder ID** - *removing a participant from a moderating role in the bot.* 
