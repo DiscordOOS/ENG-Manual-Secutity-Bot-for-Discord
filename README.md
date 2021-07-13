@@ -1,24 +1,25 @@
-# Мануал бота для Discord
+# Bot manual for Discord
 
-**ВНИМАНИЕ - Для того чтобы бот работал на сервере вы должны подать заявку на верификацию. Подать её можно тут ---> [Подать заявку на верификацию сервера]().**
+**ATTENTION - In order for the bot to work on the server, you must submit an application for verification. You can submit it here ---> [Submit a request for server verification]().**
 
-## Вводная часть:
+## Introductory part:
 
-- **Префикс бота** - *является символом точки.*
-- **Описание работы бота** - *бот проверяет всех прибывших участников сервера на наличии их **ID** в нашей базе данных. В случае нахождения данного **ID** бот высылает в назначенный канал сообщение об этом инцинденте.*
+- **Bot prefix** - *is a dot symbol.*
+- **Description of the bot's work** - *the bot checks all the arrived server participants for the presence of their **ID** in our database. If this **ID** is found, the bot sends a message about this incident to the designated channel.*
 
-## Команды для владельцев серверов:
+## Commands for server owners:
 
-- **.addmoder ID** - *вместо **ID** вписываете *ID* участника которого вы хотите назначить модератором в боте. Где взять ID пользователя описано в этой статье - [Где найти ID участника в Discrod](https://support.discord.com/hc/ru/articles/206346498-%D0%93%D0%B4%D0%B5-%D0%BC%D0%BD%D0%B5-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-ID-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-).*
-- **.delmoder ID** - *снятие участника с модеративной роли в боте.* 
-- **.channel ID** - *назначение канала куда бот будет присылать уведомления.*
-- **.rechannel ID** - *переназначения канала бота.*
+- **.addmoder ID** - *instead of **ID**, enter the **ID** of the participant you want to appoint as a moderator in the bot. Where to get a user ID is described in this article - [Where to find the participant ID in Discrod](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).*
+- **.delmoder ID** - *removing a participant from a moderating role in the bot.* 
+- **.channel ID** - *the purpose of the channel where the bot will send notifications.*
+- **.rechannel ID** - *reassigning the bot channel.*
 
-## Команды модераторов назначенных в боте
+## Commands of moderators assigned in the bot:
 
-**ВНИМАНИЕ - Модератор назначенный на одном сервере не может пользоваться ботом на втором сервере !**
-- **.check ID** - Принудительный запрос на проверку **ID**
+**ATTENTION - A moderator assigned on one server cannot use the bot on the second server !**
 
-## Общие команды
+- **.check ID** - Forced check request **ID**
 
-- **.help** - *Выводит справку о боте*
+## Common commands:
+
+- **.help** - *Displays the help about the bot*
