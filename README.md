@@ -1,6 +1,6 @@
 # Bot manual for Discord
 
-**ATTENTION - In order for the bot to work on the server, you must submit an application for verification. You can submit it here ---> [Submit a request for server verification]().**
+**ATTENTION - In order for the bot to work on the server, you must submit an application for verification. You can submit it here ---> [Submit a request for server verification](https://docs.google.com/forms/d/1YBB72PuJw3GGwKzqIlxuBeXeFMajOL0vVb84iLrTog8).**
 
 ## Introductory part:
 
