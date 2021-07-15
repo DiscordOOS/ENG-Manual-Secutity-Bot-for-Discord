@@ -11,9 +11,8 @@
 
 ## Commands for owners of verified servers:
 
-- **.force-check** - *a command to force check all server participants to check for the presence of records about them in the database* 
-  
-**WARNING! - .force-check command will be available for execution only 1 time on the server, as in the new update, the bot will automatically check for similarities on ALL servers when adding the intruder's ID to the database.** 
+- **.force-check** - *a command to force check all server participants to check for the presence of records about them in the database*
+  - **WARNING! - .force-check command will be available for execution only 1 time on the server, as in the new update, the bot will automatically check for similarities on ALL servers when adding the intruder's ID to the database.** 
 - **.addmoder ID** - *instead of **ID**, enter the **ID** of the participant you want to appoint as a moderator in the bot. Where to get a user or server **ID** is described in this article - [Where to find the participant ID in Discrod](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-).*
 - **.delmoder ID** - *removing a participant from a moderating role in the bot.* 
 - **.channel ID** - *the purpose of the channel where the bot will send notifications.*
