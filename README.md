@@ -27,3 +27,7 @@
 
 - **.help** - *Displays the help about the bot*
 - **.status** - *Displays the number of verified servers and records in the database*
+
+## New features:
+
+- **New feature from 07/15/2021** - *Now, when a new ID is entered into the database, the bot automatically checks all verified servers, and if it finds this user on your server, it notifies you about it in the assigned channel.*
