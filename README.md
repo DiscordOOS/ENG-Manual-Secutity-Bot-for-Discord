@@ -32,5 +32,5 @@
 ## New features:
 
 - **New feature from 07/15/2021** - *Now, when a new ID is entered into the database, the bot automatically checks all verified servers, and if it finds this user on your server, it notifies you about it in the assigned channel.*
-- **New feature from 07/19/2021** - *add new command .force*
+- **New feature from 07/21/2021** - *add new command .force*
 - **New feature from 07/24/2021** - *add new command .prefix*
